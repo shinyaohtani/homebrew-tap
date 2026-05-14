@@ -1,8 +1,8 @@
 cask "linkkeeper" do
-  version "1.0.3"
-  sha256 "0ff3d9721e9b22d27a872c80f0801c8c6d78747e9770365a85b4b723a2c1c169"
+  version "1.0.4"
+  sha256 "47b331b222f4b8c97a7215f0eac5bb622eb602a128199c2c02afb90b9ddb8137"
 
-  url "https://github.com/shinyaohtani/link-keeper/releases/download/v1.0.3/LinkKeeper-#{version}.zip"
+  url "https://github.com/shinyaohtani/link-keeper/releases/download/v1.0.4/LinkKeeper-#{version}.zip"
   name "LinkKeeper"
   desc "macOS native bookmark manager utility"
   homepage "https://github.com/shinyaohtani/link-keeper"
